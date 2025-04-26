@@ -8,6 +8,10 @@
 
 <p align="center">
 
+<p>
+   I currently work as a web developer at Multiperfiles, with extensive knowledge of using the React framework with Next.js. I have experience in developing REST APIs and in creating and using microservices with NestJS and Kafka.
+</p>
+
 - **Development**:
 
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
